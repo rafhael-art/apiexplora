@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Services/Xplora.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/Xplora.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/Xplora.DTOs.csproj",
+        "projectName": "Xplora.DTOs",
+        "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/Xplora.DTOs.csproj",
+        "packagesPath": "/Users/rafhael/.nuget/packages/",
+        "outputPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/Xplora.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/Xplora.Model.csproj",
+        "projectName": "Xplora.Model",
+        "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/Xplora.Model.csproj",
+        "packagesPath": "/Users/rafhael/.nuget/packages/",
+        "outputPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/Xplora.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/Xplora.Persistence.Database.csproj",
+        "projectName": "Xplora.Persistence.Database",
+        "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/Xplora.Persistence.Database.csproj",
+        "packagesPath": "/Users/rafhael/.nuget/packages/",
+        "outputPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Services/Xplora.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Services/Xplora.Services.csproj",
+        "projectName": "Xplora.Services",
+        "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Services/Xplora.Services.csproj",
+        "packagesPath": "/Users/rafhael/.nuget/packages/",
+        "outputPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rafhael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/Xplora.DTOs.csproj": {
+                "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/Xplora.DTOs.csproj"
+              },
+              "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/Xplora.Model.csproj": {
+                "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/Xplora.Model.csproj"
+              },
+              "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/Xplora.Persistence.Database.csproj": {
+                "projectPath": "/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/Xplora.Persistence.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

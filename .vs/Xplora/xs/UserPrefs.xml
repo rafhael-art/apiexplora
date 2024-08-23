@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{55CD695E-E60D-458E-B217-4E92979DE844}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Api/Controllers/UserController.cs" relfile="src/Xplora.Api/Controllers/UserController.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.API.Xplora.Api PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Xplora.UseCases/UseCases/User/Commands/Update/UserUpdateHandler.cs">
+    <Files>
+      <File FileName="src/Xplora.Api/Controllers/ProductController.cs" Line="59" Column="52" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Queries/FindByName/ProductFindByNameQuery.cs" Line="7" Column="52" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Delete/ProductDeleteCommand.cs" Line="14" Column="1" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Update/ProductUpdateCommand.cs" Line="27" Column="1" />
+      <File FileName="src/Xplora.UseCases/Bases/BaseResponse.cs" Line="15" Column="4" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Insert/ProductInsertCommand.cs" Line="19" Column="1" />
+      <File FileName="src/Xplora.UseCases/Validators/NonNegative.cs" Line="20" Column="1" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Insert/ProductInsertCommandValidator.cs" Line="1" Column="1" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Insert/ProductInsertHandler.cs" Line="34" Column="13" />
+      <File FileName="src/Xplora.UseCases/UseCases/Product/Command/Update/ProductUpdateHanlder.cs" Line="17" Column="30" />
+      <File FileName="src/Xplora.UseCases/Validators/nonZero.cs" Line="17" Column="14" />
+      <File FileName="src/Xplora.Api/appsettings.Development.json" Line="12" Column="1" />
+      <File FileName="src/Xplora.Api/appsettings.json" Line="10" Column="126" />
+      <File FileName="src/Xplora.UseCases/UseCases/User/Commands/Update/UserUpdateCommand.cs" Line="17" Column="1" />
+      <File FileName="src/Xplora.Api/Controllers/UserController.cs" Line="33" Column="1" />
+      <File FileName="src/Xplora.Services/Services/UnitOfWork.cs" Line="15" Column="1" />
+      <File FileName="src/Xplora.UseCases/UseCases/User/Commands/Update/UserUpdateHandler.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xplora" expanded="True" selected="True">
+            <Node name="01.API" expanded="True" />
+            <Node name="02.UseCases" expanded="True" />
+            <Node name="03.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.0" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.2" />
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Extensions\" />
+    <None Remove="UseCases\" />
+    <None Remove="UseCases\User\" />
+    <None Remove="UseCases\User\Commands\" />
+    <None Remove="UseCases\User\Queries\" />
+    <None Remove="UseCases\User\Commands\Insert\" />
+    <None Remove="Bases\" />
+    <None Remove="Mapper\" />
+    <None Remove="UseCases\User\Queries\Login\" />
+    <None Remove="UseCases\User\Commands\Update\" />
+    <None Remove="UseCases\User\Queries\GetByEmail\" />
+    <None Remove="UseCases\Product\" />
+    <None Remove="UseCases\Product\Command\" />
+    <None Remove="UseCases\Product\Queries\" />
+    <None Remove="UseCases\Product\Command\Insert\" />
+    <None Remove="UseCases\Product\Command\Update\" />
+    <None Remove="UseCases\Product\Command\Delete\" />
+    <None Remove="UseCases\Product\Queries\GetAll\" />
+    <None Remove="UseCases\Product\Queries\FindByName\" />
+    <None Remove="Validators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="UseCases\" />
+    <Folder Include="UseCases\User\" />
+    <Folder Include="UseCases\User\Commands\" />
+    <Folder Include="UseCases\User\Queries\" />
+    <Folder Include="UseCases\User\Commands\Insert\" />
+    <Folder Include="Bases\" />
+    <Folder Include="Mapper\" />
+    <Folder Include="UseCases\User\Queries\Login\" />
+    <Folder Include="UseCases\User\Commands\Update\" />
+    <Folder Include="UseCases\User\Queries\GetByEmail\" />
+    <Folder Include="UseCases\Product\" />
+    <Folder Include="UseCases\Product\Command\" />
+    <Folder Include="UseCases\Product\Queries\" />
+    <Folder Include="UseCases\Product\Command\Insert\" />
+    <Folder Include="UseCases\Product\Command\Update\" />
+    <Folder Include="UseCases\Product\Command\Delete\" />
+    <Folder Include="UseCases\Product\Queries\GetAll\" />
+    <Folder Include="UseCases\Product\Queries\FindByName\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Xplora.Services\Xplora.Services.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,33 @@
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.deps.json
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/refint/Xplora.DTOs.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/ref/Xplora.DTOs.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.deps.json
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfoInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfo.cs
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.csproj.CoreCompileInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/refint/Xplora.DTOs.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/ref/Xplora.DTOs.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.deps.json
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/bin/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.AssemblyInfo.cs
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/refint/Xplora.DTOs.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.DTOs/obj/Debug/net6.0/ref/Xplora.DTOs.dll

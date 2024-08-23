@@ -1,0 +1,36 @@
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.deps.json
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/refint/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/ref/Xplora.Persistence.Database.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.deps.json
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.AssemblyReference.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfoInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfo.cs
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.CoreCompileInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/refint/Xplora.Persistence.Database.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/ref/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.deps.json
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.AssemblyInfo.cs
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/refint/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Persistence.Database/obj/Debug/net6.0/ref/Xplora.Persistence.Database.dll

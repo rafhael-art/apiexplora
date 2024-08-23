@@ -1,0 +1,63 @@
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.deps.json
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.U.FC66CFB0.Up2Date
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/refint/Xplora.UseCases.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/ref/Xplora.UseCases.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.deps.json
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.AssemblyReference.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfoInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfo.cs
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.CoreCompileInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.CopyComplete
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/refint/Xplora.UseCases.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/ref/Xplora.UseCases.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.deps.json
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.UseCases.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Services.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.DTOs.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/bin/Debug/net6.0/Xplora.Persistence.Database.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.AssemblyReference.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.AssemblyInfo.cs
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.U.FC66CFB0.Up2Date
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/refint/Xplora.UseCases.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/Xplora.UseCases.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.UseCases/obj/Debug/net6.0/ref/Xplora.UseCases.dll

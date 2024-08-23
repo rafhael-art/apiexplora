@@ -1,0 +1,33 @@
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.deps.json
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfo.cs
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/refint/Xplora.Model.dll
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/Escritorio/POSTULACIONES/Xplora/src/Xplora.Model/obj/Debug/net6.0/ref/Xplora.Model.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.deps.json
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfoInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfo.cs
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.csproj.CoreCompileInputs.cache
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/refint/Xplora.Model.dll
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.pdb
+C:/Users/pilla/Downloads/Archivo 2/Archivo/Xplora/src/Xplora.Model/obj/Debug/net6.0/ref/Xplora.Model.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.deps.json
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/bin/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfoInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.AssemblyInfo.cs
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.csproj.CoreCompileInputs.cache
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/refint/Xplora.Model.dll
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/Xplora.Model.pdb
+/Users/rafhael/Desktop/SQL/Xplora/src/Xplora.Model/obj/Debug/net6.0/ref/Xplora.Model.dll
